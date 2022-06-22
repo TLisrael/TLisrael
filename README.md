@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**TLisrael/TLisrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Estudante <strong>Sistemas de Informação</strong> no 1° periodo.<br>
+  Aprendendo e conhecendo novas linguagens todos os dias.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens que estou estudando:<br> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Desenvolvendo pelo Visual Studio Code com o SO Windows 11</strong>
+</p>
+
+<p align="left">
+  💌 Para falar comigo, envie-me uma mensagem diretamente pelo Github que responderei em breve! 
+</p>
