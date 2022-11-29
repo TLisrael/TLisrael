@@ -17,3 +17,5 @@
 <p align="left">
   💌 Para falar comigo, envie-me uma mensagem diretamente pelo Github que responderei em breve! 
 </p>
+
+[Estou compartilhando algumas resoluções de exercicios de classes no meu gist](https://gist.github.com/TLisrael/e0fcb59eeace819175c0f6b0c8fa5fc2)
