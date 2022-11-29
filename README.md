@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Desenvolvendo pelo Visual Studio Code com o SO Windows 11</strong>
+  💼 Ferramentas: <strong>Desenvolvendo pelo Pycharm utilizando o SO windows 11</strong>
 </p>
 
 <p align="left">
