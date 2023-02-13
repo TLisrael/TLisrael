@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Estudante <strong>Sistemas de Informação</strong> no 2° periodo.<br>
+  Estudante <strong>Sistemas de Informação</strong> no 3° periodo.<br>
   Aprendendo e conhecendo novas linguagens todos os dias.
 </p>
 
