@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Desenvolvendo pelo Pycharm e Eclipse utilizando o SO windows 11 | Linux Mint</strong>
+  💼 Ferramentas: <strong>Desenvolvendo pelo Pycharm e Eclipse utilizando o SO windows 11</strong>
 </p>
 
 
