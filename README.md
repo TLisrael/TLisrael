@@ -24,7 +24,7 @@
       • Familiaridade com hardware de servidor e virtualização
     </p>
     <p align="left">
-      🌱 Sempre aprendendo e buscando novos desafios para aprimorar minhas habilidades em Python, análise de dados e banco de dados. Aberto(a) para colaborar em projetos e aprender com a comunidade GitHub!
+      🌱 Sempre aprendendo e buscando novos desafios para aprimorar minhas habilidades em Python, análise de dados e banco de dados. Aberta para colaborar em projetos e aprender com a comunidade GitHub!
     </p>
 
  </div>
