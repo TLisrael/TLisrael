@@ -3,7 +3,7 @@
   <div>
     <img src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=800x600&vertical=top" min-width="500px" max-width="500px" width="500px" align="right" alt="Imagem do perfil">
     <p align="left"> 
-      Estudante de <strong>Sistemas de Informação</strong> no 4º período.<br>
+      Estudante de <strong>Sistemas de Informação</strong> no 5º período.<br>
       Apaixonada por tecnologia e entusiasta de programação, com foco em <strong>Python</strong>
     </p>
     <p align="left">
