@@ -9,8 +9,8 @@
     <p align="left">
       🦄 Linguagens e tecnologias que estou estudando:<br>  
       <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Análise%20de%20Dados-FFA500?style=for-the-badge&logo=jupyter&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Banco%20de%20Dados-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Scrum-FF0000?style=for-the-badge&logo=scrum&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/Linux-ffa500?style=for-the-badge&logo=linux&logoColor=black" /> 
     </p>
     <p align="left">
       💼 Ferramentas: <strong>VSCode, Jupyter Notebook, MySQL Workbench</strong>
