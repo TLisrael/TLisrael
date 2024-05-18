@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Linux-ffa500?style=for-the-badge&logo=linux&logoColor=black" /> 
     </p>
     <p align="left">
-      💼 Ferramentas: <strong>VSCode, Jupyter Notebook, MySQL Workbench</strong>
+      💼 Ferramentas: <strong>Pycharm</strong>
     </p>
     <p align="left">
       💻 Habilidades: <br>
